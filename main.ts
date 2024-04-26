@@ -12,7 +12,7 @@ export default class SelectWordPlugin extends Plugin {
 
 	async onload() {
 		this.addCommand({
-			id: 'select-current-word-hotkey',
+			id: 'select-word',
 			name: 'select the closest word to the caret in editor',
 			hotkeys: [{modifiers: [], key: 'Escape'}],
 			editorCallback: (editor: Editor) => {
