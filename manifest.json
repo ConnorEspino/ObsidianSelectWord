@@ -5,5 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "Selects the word that is closest to the caret.",
 	"author": "Connor Espino",
+	"repo": "https://github.com/ConnorEspino/ObsidianSelectWord",
 	"isDesktopOnly": false
 }
