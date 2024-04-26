@@ -17,7 +17,7 @@ export default class SelectWordPlugin extends Plugin {
 		this.addCommand({
 			id: 'select-current-word-hotkey',
 			name: 'select the closest word to the caret in editor',
-			hotkeys: [{modifiers: ['Ctrl'], key: 'W'}],
+			hotkeys: [{modifiers: [], key: 'Escape'}],
 			editorCallback: (editor: Editor) => {
 				selectWord(editor);
 			}

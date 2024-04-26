@@ -6,8 +6,8 @@ This is a simple plugin for Obsidian (https://obsidian.md) that selects the word
 
 I'm making this because no one else has and it drive me crazy to not have this as a hotkey.
 
-The default hotkey is `Ctrl` + `W` because I make the rules around here. 
-- To change this hotkey, open the Settings dialog, go to the Hotkeys panel and search for "Select Word". 
+The default hotkey is `Esc`.
+- To change this hotkey, open the Settings dialog, go to the Hotkeys panel and search for "Select word". 
 - Alternatively, you can click the + icon next to the plugin's on/off switch in the Community Plugins panel.
 
 This is a very basic solution - if I want to improve it later, I might. 
