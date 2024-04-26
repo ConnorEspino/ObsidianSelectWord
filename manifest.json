@@ -1,6 +1,6 @@
 {
 	"id": "select-word",
-	"name": "Select Word",
+	"name": "Select word",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Selects the word that is closest to the caret.",
