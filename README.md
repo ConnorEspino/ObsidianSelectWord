@@ -12,4 +12,5 @@ This is a very basic solution - I might improve it later.
 
 ## Open Issues
 Plugin doesn't work on title text
+
 Might be handy to add an option to select whole hyperlinks rather than words inside the hyperlink
